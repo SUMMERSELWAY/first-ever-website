@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Fimsh</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="icon" type="image/x-icon" href="/Imgs/f i m s h nobackground.png">
+</head>
+
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="origin.html">Origin Story</a></li>
+      <li><a href="dictator.html">Dictator</a></li>
+      <li><a href="finarchs.html">Finarchs</a></li>
+      <li><a class="active" href="hierarchy.html">Hierarchy</a></li>
+      <li><a href="map.html">Map</a></li>
+    </ul>
+  </nav>
+
+  <h1>
+    Fimsh Hierarchy
+  </h1>
+  <h2 id="hierarchy">
+    The Fimsh Hierarchy
+  </h2>
+  <p>
+    In the hierarchical structure of Fimsh society, the normal fish would indeed be positioned at the very bottom. These
+    are the Fimsh who have not yet developed advanced cognitive abilities or gained recognition within the society. They
+    contribute to the everyday functioning of the community, such as gathering food and maintaining the infrastructure
+    of Aquatica.
+  </p>
+  <p>
+    In the hierarchical structure of Fimsh society, the normal fish would indeed be positioned at the very bottom. These
+    are the Fimsh who have not yet developed advanced cognitive abilities or gained recognition within the society. They
+    contribute to the everyday functioning of the community, such as gathering food and maintaining the infrastructure
+    of Aquatica.
+  </p>
+  <p>
+    Above the normal fish are the various specialized classes of Fimsh, each with its unique role and responsibilities.
+    These classes include scholars, artists, scientists, engineers, and diplomats, among others. Each class focuses on a
+    specific area of expertise and contributes to the advancement and prosperity of the Fimsh society.
+  </p>
+  <p>
+    At the pinnacle of the hierarchy stands Lord Lumarius, the dictator of the Fimsh society. Lord Lumarius is an
+    exceptionally wise and respected Fimsh who possesses vast knowledge and leadership abilities. Lord Lumarius is
+    responsible for making final decisions on matters that affect the entire Fimsh community and ensuring the overall
+    well-being of Aquatica.
+  </p>
+  <p>
+    Directly below Lord Lumarius is the Finarch Council, which acts as a round table of the highest-ranking members from
+    each specialized class. The Finarchs serve as advisors to Lord Lumarius and represent the interests of their
+    respective domains. They provide counsel, share information, and discuss important matters that require collective
+    decision-making.
+  </p>
+  <p>
+    The Finarchs, while holding significant influence, do not have absolute power. They act as the voice of their
+    constituents and work collectively to ensure the smooth functioning and progress of Fimsh society. The Finarch
+    Council meets regularly to deliberate on policies, address societal issues, and propose initiatives that promote the
+    growth and well-being of the Fimsh community.
+  </p>
+  <p>
+    Communication between Lord Lumarius and the Finarchs is essential for effective governance. The Finarchs report to
+    Lord Lumarius, sharing updates on the progress and challenges faced within their respective areas of expertise. They
+    also provide recommendations and strategies to address any issues that may arise.
+  </p>
+  <p>
+    While Lord Lumarius holds a position of authority, the Fimsh society is not characterized by a dictatorship in the
+    conventional sense. The system emphasizes collective decision-making, where knowledge, expertise, and the well-being
+    of the community take precedence over individual power. This ensures a balanced and inclusive approach to governance
+    within the Fimsh society.
+  </p>
+
+</body>
+
+</html>
