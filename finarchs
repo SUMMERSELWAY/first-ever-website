@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Fimsh</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="icon" type="image/x-icon" href="/Imgs/f i m s h nobackground.png">
+</head>
+
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="origin.html">Origin Story</a></li>
+      <li><a href="dictator.html">Dictator</a></li>
+      <li><a class="active" href="finarchs.html">Finarchs</a></li>
+      <li><a href="hierarchy.html">Hierarchy</a></li>
+      <li><a href="map.html">Map</a></li>
+    </ul>
+  </nav>
+  <header>
+    <h1>
+      The Nine Finarchs
+    </h1>
+  </header>
+
+  <header>
+    <h2 id="areas">
+      Education and Academia:
+    </h2>
+  </header>
+
+  <p>
+    The Finarch of Education and Academia oversees the educational system, promotes intellectual growth, and ensures the dissemination of knowledge throughout Fimsh society. They are responsible for educational policies, institutions, and fostering a culture of lifelong learning.
+  </p>
+  
+  <header>
+    <h2 id="areas">
+      Commerce and Trade:
+    </h2>
+  </header>
+  
+  <p>
+    The Finarch of Commerce and Trade manages the economic affairs of Aquatica, overseeing trade relations, commerce regulations, and economic development. They work towards the prosperity and sustainability of Fimsh businesses, promoting fair trade and economic growth.
+  </p>
+  
+  <header>
+    <h2 id="areas">
+      Arts and Culture:
+    </h2>
+  </header>
+  
+  <p>
+    The Finarch of Arts and Culture promotes artistic expression, cultural preservation, and the advancement of the arts within Fimsh society. They support artists, artisans, and cultural events, fostering creativity, appreciation for the arts, and the preservation of Fimsh cultural heritage.
+  </p>
+  
+  <header>
+    <h2 id="areas">
+      Sciences and Innovation:
+    </h2>
+  </header>
+  
+  <p>
+    The Finarch of Sciences and Innovation focuses on scientific research, technological advancements, and innovation. They foster scientific curiosity, support research initiatives, and encourage the development of new technologies for the betterment of Fimsh society.
+  </p>
+  
+  <header>
+    <h2 id="areas">
+      Diplomacy and Foreign Relations:
+    </h2>
+  </header>
+  
+  <p>
+    The Finarch of Diplomacy and Foreign Relations handles interactions with other underwater civilizations and ensures peaceful and fruitful diplomatic relationships. They engage in negotiations, represent Fimsh interests abroad, and maintain diplomatic alliances and agreements.
+  </p>
+  
+  <header>
+    <h2 id="areas">
+      Sciences and Innovation:
+    </h2>
+  </header>
+  
+  <p>
+    Defense and Security: The Finarch of Defense and Security is responsible for safeguarding Aquatica and its inhabitants from external threats. They oversee the defense forces, establish security measures, and devise strategies to protect Fimsh society from potential dangers.
+  </p>
+  
+  <header>
+    <h2 id="areas">
+      Infrastructure and Urban Planning:
+    </h2>
+  </header>
+  
+  <p>
+    The Finarch of Infrastructure and Urban Planning oversees the development and maintenance of Aquatica's physical infrastructure. They ensure efficient transportation systems, sustainable urban planning, and the provision of essential services to the Fimsh population.
+  </p>
+  
+  <header>
+    <h2 id="areas">
+      Environmental Conservation:
+    </h2>
+  </header>
+  
+  <p>
+    The Finarch of Environmental Conservation is dedicated to preserving and protecting the delicate underwater ecosystem of Aquatica. They implement measures to mitigate pollution, promote sustainable practices, and raise awareness about the importance of environmental stewardship.
+  </p>
+  
+  <header>
+    <h2 id="areas">
+      Social Welfare and Community Development:
+    </h2>
+  </header>
+  
+  <p>
+    The Finarch of Social Welfare and Community Development focuses on the well-being of the Fimsh population. They address social issues, promote inclusivity, and develop programs and initiatives to enhance the quality of life for all Fimsh inhabitants.
+  </p>
+
+</body>
+
+</html>
